@@ -7,8 +7,7 @@
   *
   * Return: Void.
   */
-char *cap_string(char *str)
-{
+char *cap_string(char *str);{
 	int count = 0;
 
 	while (str[count])
